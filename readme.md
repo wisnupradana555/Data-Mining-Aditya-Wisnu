@@ -1,7 +1,6 @@
 # Portofolio GitHub: 3 Proyek Machine Learning BPS Jawa Tengah (2025)
 
-Koleksi **3 Proyek Machine Learning** berbasis data resmi **Badan Pusat Statistik (BPS) Provinsi Jawa Tengah Tahun 2025** (mencakup seluruh **35 Kabupaten/Kota**) yang disusun mengikuti kurikulum **IBM Machine Learning Professional Certificate**:
-
+Koleksi **3 Proyek Machine Learning** berbasis data resmi **Badan Pusat Statistik (BPS) Provinsi Jawa Tengah Tahun 2025** (mencakup seluruh **35 Kabupaten/Kota**) :
 1. **Project 1 — Exploratory Data Analysis for Machine Learning (`01_eda_for_machine_learning.py`)**
 2. **Project 2 — Supervised Machine Learning: Regression (`02_supervised_ml_regression.py`)**
 3. **Project 3 — Supervised Machine Learning: Classification (`03_supervised_ml_classification.py`)**
